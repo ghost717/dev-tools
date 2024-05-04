@@ -1,0 +1,7 @@
+.env
+*.bak
+
+env
+venv
+tmp
+temp
